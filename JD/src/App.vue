@@ -62,7 +62,7 @@ export default {
     return {
       flag1: true,
       flag2: true,
-      image1: require("./assets/iconfont/topp.png"),
+      image1: require("./assets/iconfont/topp1.png"),
       show: false,
       show1: false,
       image2: require("./assets/xiaoxi/sj.jpg"),
